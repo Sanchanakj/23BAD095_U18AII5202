@@ -37,29 +37,29 @@ The dataset contains the following attributes:
 
 ## Visualizations Implemented
 
-### 1️⃣ Subject-wise Average Marks (Bar Chart)
+### Subject-wise Average Marks (Bar Chart)
 - Displays the average marks obtained in each subject.
 - Helps compare performance across different subjects.
 
-📁 Output File:
+Output File:
 - `Subject-wise Average Marks.png`
 
 ---
 
-### 2️⃣ Performance Trend Across Assessments (Line Chart)
+### Performance Trend Across Assessments (Line Chart)
 - Shows average performance across assessment types.
 - Helps identify trends between internal tests and assignments.
 
-📁 Output File:
+Output File:
 - `Performance Trend Across Assessments.png`
 
 ---
 
-### 3️⃣ Final Grade Distribution (Pie Chart)
+### Final Grade Distribution (Pie Chart)
 - Represents the proportion of students in each final grade category.
 - Helps understand overall grade distribution.
 
-📁 Output File:
+Output File:
 - `Final Grade Distribution.png`
 
 ---
