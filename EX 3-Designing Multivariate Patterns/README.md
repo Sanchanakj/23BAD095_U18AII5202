@@ -96,7 +96,7 @@ This experiment successfully demonstrates how multivariate visualization techniq
 
 ## Author
 
-* **Student Roll No:** *<23BAD095>*
+* **Student Roll No:** *23BAD095*
 
 ---
 
