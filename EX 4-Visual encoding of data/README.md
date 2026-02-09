@@ -39,8 +39,7 @@ The scatter plot produced displays:
 - **Size:** Number of casualties (larger points = more casualties)  
 - **Shape:** Type of accident (Collision, Overturn, Skid)  
 - Clear legends showing mapping of color, size, and shape  
- 
-![Traffic Accident Visual Encoding](1bda4115-de9f-433d-8154-b4d2a73437cb.png)
+ EX 4-Visual encoding of data/Output/Visual Encoding of Traffic Accident Data.png
  
 ## Key Observations
 - Fatal accidents are immediately visible using red color  
