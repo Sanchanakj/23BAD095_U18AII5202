@@ -1,6 +1,6 @@
 # Experiment 7 – Over-Plotting Reduction Techniques
 
-## 📌 Experiment Details
+## Experiment Details
 
 * **Experiment No:** 7
 * **Title:** Over-Plotting Reduction Techniques
@@ -9,25 +9,25 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To apply visualization techniques that reduce visual clutter in large-scale datasets and improve clarity and interpretability.
 
 ---
 
-## 📖 Background
+## Background
 
 Over-plotting occurs when multiple data points overlap in a visualization, making it difficult to identify patterns, trends, and outliers. This issue is common in big data analytics, AI datasets, and social media interaction data due to the large volume of records.
 
 ---
 
-## 🌍 Scenario
+## Scenario
 
 A social media analytics company analyzes millions of user interactions to study engagement patterns. Over-plotting reduction techniques help improve visualization clarity and enable better data-driven insights.
 
 ---
 
-## 🛠 Techniques Implemented
+## Techniques Implemented
 
 The following techniques were applied to reduce over-plotting:
 
@@ -48,14 +48,14 @@ The following techniques were applied to reduce over-plotting:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * **File Name:** `social_media_interactions.csv`
 * Contains simulated user interaction data used for visualization.
 
 ---
 
-## 💻 Implementation
+## Implementation
 
 ### Load Required Libraries
 
@@ -95,7 +95,7 @@ ggplot(data, aes(x = Likes, y = Comments)) +
 
 ---
 
-## 📊 Results
+## Results
 
 * Alpha blending helped visualize dense clusters.
 * Jittering reduced overlapping of identical values.
@@ -103,13 +103,13 @@ ggplot(data, aes(x = Likes, y = Comments)) +
 
 ---
 
-## 🧠 Learning Outcome
+## Learning Outcome
 
 This experiment demonstrates how visualization techniques improve clarity in large datasets and support scalable AI and big data analytics.
 
 ---
 
-## ⚠️ Importance of Over-Plotting Reduction
+## Importance of Over-Plotting Reduction
 
 Ignoring over-plotting can:
 
@@ -120,13 +120,13 @@ Ignoring over-plotting can:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 Over-plotting reduction techniques such as alpha blending, jittering, and aggregation significantly improve visualization clarity and help analysts understand large datasets effectively.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Name:** Sanchana KJ
 **Course:** Data Visualization / AI Lab
