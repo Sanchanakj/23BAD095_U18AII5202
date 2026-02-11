@@ -130,7 +130,6 @@ Over-plotting reduction techniques such as alpha blending, jittering, and aggreg
 
 **Name:** Sanchana KJ
 **Course:** Data Visualization / AI Lab
-**Institution:** *(Add your college name if required)*
 
 ---
 
